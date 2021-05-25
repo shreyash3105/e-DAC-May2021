@@ -18,7 +18,7 @@ void f2(){System.out.println("I am Marine Animal");
 }
 }
 class Bluewhale extends MarineAnimals{
-void f3(){System.out.println("I belong to both categories Mammals as well as Marine Animals");
+void f3(){System.out.println("I belong to both categories: Mammals as well as Marine Animals");
 }
 public static void main(String[]args){
 Mammals obj = new Mammals();
