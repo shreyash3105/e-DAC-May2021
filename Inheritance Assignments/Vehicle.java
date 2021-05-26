@@ -1,4 +1,4 @@
-/*We want to store the information of different vehicles. Create a
+/*4. We want to store the information of different vehicles. Create a
 class named Vehicle with two data member named mileage and
 price. Create its two subclasses
 *Car with data members to store ownership cost, warranty (by
