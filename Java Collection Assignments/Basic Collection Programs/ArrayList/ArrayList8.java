@@ -1,7 +1,5 @@
 //8. Write a Java program to sort a given array list.
 import java.util.*;
-
-//import javax.swing.plaf.basic.BasicInternalFrameTitlePane.SystemMenuBar;
 public class ArrayList8 {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<Integer>();
