@@ -17,7 +17,7 @@ public class ArrayList13 {
         list2.add("Fourth");
         list2.add("Fifth"); 
         list2.add("Sixth"); 
-        System.out.println("Second ArrayList :" + list2); //Printing Second ArrrayList
+        System.out.println("Second ArrayList :" + list2); //Printing Second ArrayList
         //Comparing The two ArrayList's
         if(list.equals(list2) == true){ //Checking if both list's are same
             System.out.println("Both list's are same");
